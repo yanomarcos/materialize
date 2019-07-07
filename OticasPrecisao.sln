@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29021.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OticasPrecisao", "OticasPrecisao\OticasPrecisao.csproj", "{C56064D1-1837-4731-A4EA-6D3FD6FC07EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C56064D1-1837-4731-A4EA-6D3FD6FC07EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56064D1-1837-4731-A4EA-6D3FD6FC07EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56064D1-1837-4731-A4EA-6D3FD6FC07EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56064D1-1837-4731-A4EA-6D3FD6FC07EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {751DA784-BB87-457E-B316-D1EDEE6D2208}
+	EndGlobalSection
+EndGlobal
